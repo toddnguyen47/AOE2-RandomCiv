@@ -1,0 +1,10 @@
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\bin\Debug\RandomCiv.exe.config
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\bin\Debug\RandomCiv.exe
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\bin\Debug\RandomCiv.pdb
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\obj\Debug\RandomCiv.csprojAssemblyReference.cache
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\obj\Debug\RandomCiv.Form1.resources
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\obj\Debug\RandomCiv.Properties.Resources.resources
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\obj\Debug\RandomCiv.csproj.GenerateResource.cache
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\obj\Debug\RandomCiv.csproj.CoreCompileInputs.cache
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\obj\Debug\RandomCiv.exe
+C:\Users\i1A771792\Downloads\GitHub\AOE2-RandomCiv\RandomCiv\obj\Debug\RandomCiv.pdb
